@@ -15,9 +15,18 @@ jobs:
         with:
           token: ${{ secrets.PAT_TOKEN }}
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate light theme cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          THEME: default
+
+      - name: Generate dark theme cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          THEME: github_dark
+          OUTPUT_FOLDER: profile-summary-card-output/github-dark
 
       - name: Commit
         run: |
