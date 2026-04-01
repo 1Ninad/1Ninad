@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Ninad
+**About Me**
+- I'm an undergraduate student in IT at VIT Pune (2023–2027)
+- CGPA: 8.76 / 10
+- I'm originally from the U.S., currently based in India. 
 
-<!--
-**1Ninad/1Ninad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,spring,fastapi,mysql" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Activity Overview
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1Ninad&theme=github_dark"/>
