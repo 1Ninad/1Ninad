@@ -1,11 +1,11 @@
-## Ninad Kale
+# Ninad Kale
+
+
 IT undergrad at VIT Pune (2023–27), CGPA 8.76, originally from the U.S. and currently in India.
 
 AI Agents · Backend systems · Embedded interfaces
 
-
-
-#### Tech Stack
+---
 <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,js,react,mysql" />
 
 
