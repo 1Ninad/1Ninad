@@ -5,5 +5,6 @@ Intern @Tetra Pak and IT undergrad at VIT Pune (2023–27) with CGPA 8.82. Origi
 
 AI Agents · Backend systems · Embedded interfaces
 
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ninad22/)
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,js,react,mysql" />
