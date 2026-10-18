@@ -1,9 +1,7 @@
 ### Ninad Kale
 
 
-Intern @Tetra Pak and IT undergrad at VIT Pune (2023–27) with CGPA 8.82. Originally from the U.S. and currently in India.
-
-AI Agents · Backend systems · Embedded interfaces
+Intern ant Icertis and IT undergrad at VIT Pune with CGPA 8.82. Originally from the U.S. and currently in India.
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ninad22/)
 
